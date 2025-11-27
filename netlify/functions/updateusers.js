@@ -4,14 +4,14 @@
 // ========== ADMIN FIJO (NO EDITAR) ==========
 const FIXED_ADMIN = {
   username: "admin",
-  password: "68914",
+  password: "2619",
   expiresAt: "2026-12-16"
 };
 // ============================================
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const REPO_OWNER = process.env.REPO_OWNER || "virtualformacion";
-const REPO_NAME = process.env.REPO_NAME || "polo-entertainment";
+const REPO_NAME = process.env.REPO_NAME || "inkaxtream";
 const FILE_PATH = process.env.FILE_PATH || "script.js";
 const BRANCH = process.env.BRANCH || "main";
 
