@@ -13,7 +13,8 @@ const USERS = [
     { username: "client184", password: "221240", expiresAt: new Date("2026-02-12") },
     { username: "client196", password: "221240", expiresAt: new Date("2026-02-12") },
     { username: "tombg4y", password: "221240", expiresAt: new Date("2026-02-12") },
-    { username: "client12b", password: "221240", expiresAt: new Date("2026-12-15") }
+    { username: "client12b", password: "221240", expiresAt: new Date("2026-12-15") },
+    { username: "client548", password: "221240", expiresAt: new Date("2025-12-03") }
 ];
 
 const MAX_ATTEMPTS = 1000000;
