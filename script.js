@@ -18,7 +18,6 @@ const USERS = [
     { username: "client5000", password: "221240", expiresAt: new Date("2025-12-03") },
     { username: "client159", password: "221240", expiresAt: new Date("2025-12-03") },
     { username: "client14a", password: "221240", expiresAt: new Date("2026-12-15") },
-    { username: "qwewewewqewqweqweweq", password: "221240", expiresAt: new Date("2026-12-12") },
     { username: "client12d", password: "221240", expiresAt: new Date("2026-12-12") },
     { username: "client1sep", password: "221240", expiresAt: new Date("2026-12-12") },
     { username: "client959", password: "221240", expiresAt: new Date("2026-12-12") },
