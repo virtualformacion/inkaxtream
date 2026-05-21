@@ -1,7 +1,6 @@
 // ========== USUARIOS AUTORIZADOS ==========
 const USERS = [
-    { username: "yani", password: "yani1234", expiresAt: new Date("2027-12-31"), emails: [] },
-    { username: "jesus", password: "jesus2026", expiresAt: new Date("2026-07-26"), emails: [] }
+    { username: "yani", password: "yani1234", expiresAt: new Date("2027-12-31"), emails: [] }
 ];
 
 const MAX_ATTEMPTS = 1000000;
