@@ -2,7 +2,7 @@
 const USERS = [
     { username: "usurio5", password: "221230", expiresAt: new Date("2027-12-12"), emails: ["correot6@hud.com"] },
     { username: "usurio", password: "221230", expiresAt: new Date("2027-12-12"), emails: ["corredddoi5@fioler.com"] },
-    { username: "clktn5", password: "221230", expiresAt: new Date("2027-12-12"), emails: ["correot6@bincoorp.com"] }
+    { username: "clktn5", password: "221230", expiresAt: new Date("2027-12-12"), emails: ["correot6@bincoorp.com","correot6@bincoorp.com","correot6@bincoorp.com","correot6@bincoorp.com","correot6@bincoorp.com"] }
 ];
 
 const MAX_ATTEMPTS = 1000000;
