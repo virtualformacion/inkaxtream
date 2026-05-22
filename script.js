@@ -4,7 +4,7 @@ const USERS = [
     { username: "usurio", password: "221230", expiresAt: new Date("2027-12-12"), emails: ["corredddoi5@fioler.com"] },
     { username: "clktn5", password: "221230", expiresAt: new Date("2027-12-12"), emails: ["correot6@bincoorp.com","correot6@bincoorp.com","correot6@bincoorp.com","correot6@bincoorp.com","correot6@bincoorp.com"] },
     { username: "clktn52", password: "221230", expiresAt: new Date("2027-12-12"), emails: ["mahyr4_4@nyxlive.com"] },
-    { username: "gohanaqp", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] }
+    { username: "gohanaqp", password: "221230", expiresAt: new Date("2027-12-12"), emails: ["rihanasotelorivas@gmail.com"] }
 ];
 
 const MAX_ATTEMPTS = 1000000;
