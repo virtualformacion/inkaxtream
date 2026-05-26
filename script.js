@@ -4,7 +4,6 @@ const USERS = [
     { username: "cliente278", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
     { username: "dtenhy5", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
     { username: "celi489", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
-    { username: "clientco46", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
     { username: "ernbty6", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
     { username: "deryy6", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
     { username: "daxy687", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
