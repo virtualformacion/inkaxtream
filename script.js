@@ -1,7 +1,7 @@
 // ========== USUARIOS AUTORIZADOS ==========
 const USERS = [
     { username: "cliente278", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
-    { username: "dtenhy5", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
+    { username: "dtenhy5", password: "221230", expiresAt: new Date("2027-12-12"), emails: ["samirdull81@gmail.com"] },
     { username: "celi489", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
     { username: "ernbty6", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
     { username: "deryy6", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
