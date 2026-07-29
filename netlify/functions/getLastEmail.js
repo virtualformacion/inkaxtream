@@ -54,6 +54,7 @@ exports.handler = async (event) => {
       "¿Vas a actualizar tu Hogar de Disney+?",
       "Votre code d'accès à usage unique pour Disney+",
       "Votre code d'accès à usage unique pour Disney+",
+      "VTu código de acceso único para MyDisney",
       "Tu código de acceso único para Disney+" // Asunto específico de Disney+
     ];
 
