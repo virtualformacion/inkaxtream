@@ -58,7 +58,6 @@ const USERS = [
     { username: "ayner577", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
     { username: "frenkk567", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
     { username: "client5998", password: "221240", expiresAt: new Date("2027-12-12"), emails: [] },
-    { username: "winxtream4", password: "221240", expiresAt: new Date("2027-12-12"), emails: [] },
     { username: "client1002", password: "221240", expiresAt: new Date("2027-12-12"), emails: [] },
     { username: "client576", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
     { username: "t196", password: "221230", expiresAt: new Date("2027-12-12"), emails: [] },
